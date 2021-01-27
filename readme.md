@@ -6,7 +6,7 @@
 
 ## Description
 
-- A Java Web Application (2.5) For Post On Legendary Monsters
+- A Java Web Application (2.5) For Adding Articles On Legendary Monsters
 
 #### Fonctionnalites
 
