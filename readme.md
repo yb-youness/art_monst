@@ -30,7 +30,7 @@
 
 #### conf
 
-- You Configure The Data Base In com.Conn
+- You Can Configure The Data Base In com.Conn
 - Mail Config
 
 1. Create a Gmail Acount And Activate Activate less Secure App To Send Email Using SMTP
