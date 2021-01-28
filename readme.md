@@ -23,7 +23,7 @@
 #### Technologies
 
 - Java (jsp/servlet/jdbc)
-- MongoDb
+- MYSQl
 - Bootswatch Darkly Theme
 
 ---
